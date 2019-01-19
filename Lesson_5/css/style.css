@@ -1,0 +1,23 @@
+body {
+	background-color: #FFEBCD;
+}
+.head {
+	text-align: center;
+}
+.chapter {
+	border: solid;
+	margin-bottom: 20px;
+	padding: 20px 20px 20px 20px;
+}
+#c1 {
+	font-weight: 900;
+}
+#c2 {
+	font-style: oblique;
+}
+#c3 {
+	text-decoration: underline;
+}
+#c4 {
+	text-decoration: line-through;
+}
