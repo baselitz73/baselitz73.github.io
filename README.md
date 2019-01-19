@@ -17,6 +17,6 @@ My homework
 
 [Lesson_10](baselitz73.github.io/Lesson_10/main.less) Less
 
-Lesson_11 [Snippet HTML](baselitz73.github.io/Lesson_11/HTMLsnippet.jpg)|[Snippet CSS](baselitz73.github.io/Lesson_11/CSSsnippet.jpg)|[Emmet](baselitz73.github.io/Lesson_11/EMMET.jpg)
+Lesson_11 [Snippet HTML](baselitz73.github.io/Lesson_11/HTMLsnippet.jpg) [Snippet CSS](baselitz73.github.io/Lesson_11/CSSsnippet.jpg) [Emmet](baselitz73.github.io/Lesson_11/EMMET.jpg)
 
 [Lesson_12](https://github.com/baselitz73/baselitz73.github.io) Github
