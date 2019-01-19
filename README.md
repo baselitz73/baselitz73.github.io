@@ -5,7 +5,7 @@ My homework
 
 [Lesson 5](baselitz73.github.io/Lesson_5/src/index.html) Книжка HTML+CSS
 
-[Lesson_6.1](baselitz73.github.io/Lesson_6/src/inde.html) [Lesson6.2](baselitz73.github.io/Lesson_6/src-2/inde.html) Позиционирование
+[Lesson_6.1](baselitz73.github.io/Lesson_6/src/inde.html) [Lesson6.2](baselitz73.github.io/Lesson_6/src-2/index.html) Позиционирование
 
 [Lesson_7](baselitz73.github.io/Lesson_7/src/index.html) Первый сайт HTML+CSS
 
