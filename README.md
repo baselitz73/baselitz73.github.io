@@ -3,7 +3,7 @@ My homework
 
 [Lesson_4](baselitz73.github.io/Lesson_4/src/index.html) Кникжа HTML
 
-[Lesson 5](baselitz73.github.io/Lesson_5/src/index.html) Книжка HTML+CSS
+[Lesson_5](baselitz73.github.io/Lesson_5/src/index.html) Книжка HTML+CSS
 
 [Lesson_6.1](baselitz73.github.io/Lesson_6/src/inde.html) Позиционирование
 
