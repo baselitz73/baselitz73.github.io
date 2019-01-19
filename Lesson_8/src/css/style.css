@@ -1,0 +1,21 @@
+.header {
+	text-transform: uppercase;
+	font-family: Arial;
+	margin: 140px auto 100px;
+}
+.row {
+	text-align: center;
+}
+.row img {
+	margin: 15px auto;
+}
+.row p {
+	font-family: Arial;
+	font-size: 18px;
+}
+.pref-3 {
+	margin-top: 14px;
+}
+.pref-5 {
+	margin-top: 7px;
+}
