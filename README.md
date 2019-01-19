@@ -1,4 +1,4 @@
 # Ilya Shvets
-My homeworks 
+My homework
 
-[Lesson_4](#baselitz73.github.io/Lesson_4/src/)Кникжа HTML
+[Lesson_4](#baselitz73.github.io/Lesson_4/src/) Кникжа HTML
