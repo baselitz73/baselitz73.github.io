@@ -1,0 +1,54 @@
+/* Colors */
+@textColorDark: #292929;
+@textColorLight: #fef5dd;
+@btnBgColor: #fcb203;
+@btnBgColorHeader: linear-gradient(to top, #d99901, #ffc742);
+@btnBorderColor: #ffba15;
+@iconColor: #46b914;
+@bgColor: #fff;
+@bgColorMap: #fcfcfc;
+@bgColorInfo: #f5f5f5;
+@bgColorServices: #286b0a;
+
+/* Basic settings */
+html {
+	font-size: 10px;
+}
+.button {
+	background-color: @btnBgColor;
+	color: @textColorLight;
+	padding: 1rem 3rem;
+	border: none;
+	border-radius: 8px;
+	text-transform: uppercase;
+}
+
+/* Typografy */
+section {
+	padding: 10rem 0;
+}
+
+/* Main */
+main {
+	padding: 3rem 0;
+}
+.header {
+	height: 7rem;
+}
+.wrap {
+	display: table;
+	width: 100%;
+	height: 7rem;
+	&-block {
+		display: table-cell;
+		vertical-align: middle;
+	}
+}
+.phone-link {
+	display: inline-block;
+	color: @textColorDark;
+	font-weight: 900;
+	font-size: 1.9rem;
+	height: 7rem;
+	line-height: 7rem;
+}
