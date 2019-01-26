@@ -24,3 +24,5 @@ Lesson_11 [SnippetHTML](baselitz73.github.io/Lesson_11/HTMLsnippet.jpg) [Snippet
 [Lesson_13](baselitz73.github.io/Lesson_13/src/index.html) PerfectPixel вёрстка
 
 [Lesson_14](https://baselitz73.github.io/Lesson_14/src/index.html) Подключение шрифтов
+
+[Practice](baselitz73.github.io/Practice/src/index.html) Практическое задание
