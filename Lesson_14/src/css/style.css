@@ -1,7 +1,29 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&subset=cyrillic');
-@import url('http://fonts.fontstorage.com/import/bebasneue.css');
-@import url('http://fonts.fontstorage.com/import/lato.css');
 @import url('https://fonts.googleapis.com/css?family=Lobster&subset=cyrillic');
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('../fonts/BebasNeueBold.eot');
+    src: url('../fonts/BebasNeueBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BebasNeueBold.woff2') format('woff2'),
+        url('../fonts/BebasNeueBold.woff') format('woff'),
+        url('../fonts/BebasNeueBold.ttf') format('truetype'),
+        url('../fonts/BebasNeueBold.svg#BebasNeueBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-Bold.eot');
+    src: url('../fonts/Lato-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lato-Bold.woff2') format('woff2'),
+        url('../fonts/Lato-Bold.woff') format('woff'),
+        url('../fonts/Lato-Bold.ttf') format('truetype'),
+        url('../fonts/Lato-Bold.svg#Lato-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
 .text-box{
 	padding-top: 2rem;
 }
