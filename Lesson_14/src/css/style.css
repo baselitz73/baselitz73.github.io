@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&subset=cyrillic');
+@import url('http://fonts.fontstorage.com/import/bebasneue.css');
+@import url('http://fonts.fontstorage.com/import/lato.css');
+@import url('https://fonts.googleapis.com/css?family=Lobster&subset=cyrillic');
+.text-box{
+	padding-top: 2rem;
+}
+.result {
+	margin-bottom: 0;
+	margin-top: 3rem;
+}
+.fonts {
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+small {
+	font-size: 1.3rem;
+}
+.open-sans{
+	font-family: 'Open Sans', sans-serif;
+}
+.bebas {
+	font-family: 'Bebas Neue', sans-serif;
+}
+.lato {
+	font-family: 'Lato', sans-serif;
+}
+.lobster {
+	font-family: 'Lobster', cursive;
+}
