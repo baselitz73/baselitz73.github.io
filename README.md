@@ -25,4 +25,6 @@ Lesson_11 [SnippetHTML](baselitz73.github.io/Lesson_11/HTMLsnippet.jpg) [Snippet
 
 [Lesson_14](https://baselitz73.github.io/Lesson_14/src/index.html) Подключение шрифтов
 
+[Lesson_15](baselitz73.github.io/Lesson_15/src/index) Псевдоклассы и псевдоэлементы
+
 [Practice](baselitz73.github.io/Practice/src/index.html) Практическое задание
